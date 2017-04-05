@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<logbarang>
+<barang>
+<kode>M1112</kode>
+<satuan>pc</satuan>
+<harga>5000</harga>
+<asal>
+<pt_asal>ladyrock</pt_asal>
+<kdwil_asal>10</kdwil_asal>
+</asal>
+<tujuan>
+<pt_tujuan>union</pt_tujuan>
+<kdwil_tujuan>1001</kdwil_tujuan>
+</tujuan>
+</barang>
+<barang>
+<kode>M1122</kode>
+<satuan>pc</satuan>
+<harga>1000</harga>
+<asal>
+<pt_asal>pbm</pt_asal>
+<kdwil_asal>103</kdwil_asal>
+</asal>
+<tujuan>
+<pt_tujuan>mitra kencana</pt_tujuan>
+<kdwil_tujuan>300</kdwil_tujuan>
+</tujuan>
+</barang>
+</logbarang>
